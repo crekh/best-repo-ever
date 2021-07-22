@@ -9,7 +9,8 @@ public class contestEntry
         
         contestEntry entry1 = new contestEntry();
         entry1.rank = 5;
-        entry1.name = 'Freya';
+
+        entry1.name = 'Fraction';
         entries.put(entry1.name,entry1);
         
         contestEntry entry2 = new contestEntry();
@@ -19,7 +20,8 @@ public class contestEntry
         
         contestEntry entry3 = new contestEntry();
         entry3.rank = 1;
-        entry3.name = 'Jack';
+
+        entry3.name = 'Jonathan';
         entries.put(entry3.name,entry3);
         
         contestEntry entry4 = new contestEntry();
